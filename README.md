@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <br>
 ### Tools
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+Online Compiler
+Online Interpreter
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froglike6)](https://github.com/froglike6/github-readme-stats)<br>
